@@ -23,6 +23,24 @@
 
 <div align="center">
 
+## `> IDENTIFYING TARGET...`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Scanning+profile...;Target+identified%3A+Hendra;Role%3A+Bot+Developer;Status%3A+Always+Coding..." alt="Typing SVG" />
+
+<br/>
+
+![anime coding gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+```
+> whoami
+  Name    : Hendra
+  Role    : Bot Developer
+  Status  : 「常にコーディング中...」 (Always Coding...)
+  Mission : Building bots that do the impossible
+```
+
+---
+
 ## `> SYSTEM STATUS`
 
 ![matrix gif](https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif)
